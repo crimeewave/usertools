@@ -1,7 +1,7 @@
 # Usertools
 
 ### USERTOOLS.EXE IS CLOSED SOURCE!!!
-### IF YOU WANT SOURCE, CHECK ANOTHER REPOSITORY !!!
+### IF YOU WANT SOURCE, [CHECK ANOTHER REPOSITORY](https://github.com/crimeewave/minimal-usertools-source/) !!!
 
 
 
